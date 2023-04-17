@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Culper Solutions" />
+      <img src="/logo_culper_transparent.png" alt="Culper Solutions logo" />
         <p className="description">
-          Website launching <code>soon.</code>
+          Website launching soon.
         </p>
       </main>
 

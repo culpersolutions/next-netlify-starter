@@ -7,6 +7,10 @@ body {
     Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
+p {
+  color: #ffffff;
+}
+
 * {
   box-sizing: border-box;
 }
