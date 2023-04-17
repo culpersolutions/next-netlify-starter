@@ -10,6 +10,9 @@ body {
 p {
   color: #ffffff;
 }
+a {
+  color: #ffffff;
+}
 
 * {
   box-sizing: border-box;
