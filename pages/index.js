@@ -11,13 +11,13 @@ export default function Home() {
       </Head>
 
       <main>
-      <img src="/logo_culper_transparent.png" alt="Culper Solutions logo" />
+      <img src="/logo_transparent_culper.png" alt="Culper Solutions logo" />
         <p className="description">
-          Website launching soon.
+          Website launching soon. Contact us at <a href ="mailto:sales@culpersolutions.com">sales@culpersolutions.com</a>
         </p>
       </main>
 
-      <Footer />
+      {/* <Footer /> */}
     </div>
   )
 }
